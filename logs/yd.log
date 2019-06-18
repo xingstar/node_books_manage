@@ -1,0 +1,104 @@
+[2019-06-16T10:26:04.784] [ERROR] ./logs/yd - ReferenceError: ctxy is not defined
+    at actionIndex (/Users/ministar/Documents/code/coder/yideng/node_book/controllers/IndexController.js:8:21)
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
+[2019-06-16T10:26:06.449] [ERROR] ./logs/yd - ReferenceError: ctxy is not defined
+    at actionIndex (/Users/ministar/Documents/code/coder/yideng/node_book/controllers/IndexController.js:8:21)
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
+[2019-06-16T10:26:26.460] [ERROR] ./logs/yd - ReferenceError: ctxy is not defined
+    at actionIndex (/Users/ministar/Documents/code/coder/yideng/node_book/controllers/IndexController.js:8:21)
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
+[2019-06-16T10:29:48.306] [ERROR] ./logs/yd - ReferenceError: ctxy is not defined
+    at actionIndex (/Users/ministar/Documents/code/coder/yideng/node_book/controllers/IndexController.js:8:21)
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
+[2019-06-16T10:30:47.934] [ERROR] ./logs/yd - ReferenceError: ctxy is not defined
+    at actionIndex (/Users/ministar/Documents/code/coder/yideng/node_book/controllers/IndexController.js:8:21)
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
+[2019-06-16T10:30:48.834] [ERROR] ./logs/yd - ReferenceError: ctxy is not defined
+    at actionIndex (/Users/ministar/Documents/code/coder/yideng/node_book/controllers/IndexController.js:8:21)
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
+[2019-06-16T10:30:49.308] [ERROR] ./logs/yd - ReferenceError: ctxy is not defined
+    at actionIndex (/Users/ministar/Documents/code/coder/yideng/node_book/controllers/IndexController.js:8:21)
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
+[2019-06-16T10:32:15.041] [ERROR] ./logs/yd - ReferenceError: ctxy is not defined
+    at actionIndex (/Users/ministar/Documents/code/coder/yideng/node_book/controllers/IndexController.js:8:21)
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
+[2019-06-16T10:32:36.770] [ERROR] ./logs/yd - ReferenceError: ctxy is not defined
+    at actionIndex (/Users/ministar/Documents/code/coder/yideng/node_book/controllers/IndexController.js:8:21)
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
+[2019-06-16T10:32:52.234] [ERROR] ./logs/yd - ReferenceError: ctxy is not defined
+    at actionIndex (/Users/ministar/Documents/code/coder/yideng/node_book/controllers/IndexController.js:8:21)
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
+[2019-06-16T11:28:16.573] [ERROR] cheese - ReferenceError: ctxy is not defined
+    at actionIndex (/Users/ministar/Documents/code/coder/yideng/node_book/controllers/IndexController.js:8:21)
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
+[2019-06-18T10:37:26.985] [ERROR] cheese - TypeError: ctx.request.query is not a function
+    at actionView (/Users/ministar/Documents/code/coder/yideng/node_book/controllers/BooksController.js:23:43)
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
+[2019-06-18T10:37:28.622] [ERROR] cheese - TypeError: ctx.request.query is not a function
+    at actionView (/Users/ministar/Documents/code/coder/yideng/node_book/controllers/BooksController.js:23:43)
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/coder/yideng/node_book/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
