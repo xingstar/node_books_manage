@@ -20,13 +20,15 @@ class BooksController{
     // r=books/view&id=1
     async actionView(ctx, next){
         const books = new Books();
-        console.log('query参数',ctx.request.query('id'));
+        console.log('query参数',ctx.request.querystring);
         const result = await books.getData({
-            url: 'books/view/&id='+ctx.request.query['id']
+            url: 'books/view/&'+ctx.request.querystring
         });
 
         console.log("查看页面数据:",result);
-        ctx.body = "查看";
+        ctx.body = await ctx.render('books/view',{
+            data:result.data
+        });
     }
 }
 

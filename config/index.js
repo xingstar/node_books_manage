@@ -11,8 +11,8 @@ let config = {
 if(process.env.NODE_ENV == 'development'){ // process.env.NODE_ENV设置环境变量的
     const localConfig = {
         port: 8081,
-        // baseUrl: "http://localhost/yii_gii/basic/web/index.php?r=", //后台数据的地址
-        baseUrl:"http://localhost:8080/?r=",
+        baseUrl: "http://localhost/yii_gii/basic/web/index.php?r=", //后台数据的地址
+        // baseUrl:"http://localhost:8080/?r=",
     }
 
     config = extend(config,localConfig); // 合并配置项
